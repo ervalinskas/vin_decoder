@@ -116,11 +116,11 @@ http://localhost:8000/docs
 
 ### EDA
 
-![](notebooks/eda.ipynb)
+[notebooks/eda.ipynb](notebooks/eda.ipynb)
 
 ### Data validation
 
-It defines the logic that checks if VIN contains consistent labels (make, model, year, body set). More information can be found in ![](notebooks/data_validation.ipynb)
+It defines the logic that checks if VIN contains consistent labels (make, model, year, body set). More information can be found in [notebooks/data_validation.ipynb](notebooks/data_validation.ipynb)
 
 ### Label preprocessing
 
@@ -148,7 +148,7 @@ The same, but simplified hierarchy can be seen below.
 
 ![simple-hierarchy](notebooks/images/simple-hierarchy.png)
 
-More information can be found in ![](notebooks/label_preprocessing.ipynb)
+More information can be found in [notebooks/label_preprocessing.ipynb](notebooks/label_preprocessing.ipynb)
 
 ### Stratified nested cross-validation
 
