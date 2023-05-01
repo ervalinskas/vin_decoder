@@ -209,7 +209,7 @@ Last steps:
 
 ![](notebooks/images/nested-cv.png)
 
-More information can be found in ![](notebooks/nested_cv.ipynb)
+More information can be found in [notebooks/nested_cv.ipynb](notebooks/nested_cv.ipynb)
 
 
 
