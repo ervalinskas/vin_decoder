@@ -12,7 +12,7 @@ curl -sSL https://install.python-poetry.org | python3 - --version 1.4.0
 ```
 and then adding it to your `PATH`.
 
-Once the aforesaid tools are installed, we can run the following commands to install the necessary python versions:
+Once the aforesaid tools are installed, we can run the following commands to install the necessary python version:
 
 ```bash
 make python
@@ -22,13 +22,6 @@ Now let's build a virtual environment to isolate dependencies from the packages 
 ```bash
 make env
 ```
-
-Finally we just need to activate the virtual environment:
-
-```bash
-source venv/bin/activate
-```
-
 That's it!
 
 ### ML pipeline
